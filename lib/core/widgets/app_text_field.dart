@@ -1,6 +1,6 @@
 
 
-import 'package:chat_app__qurinom_solutions__assignment/core/extensions/build_context.extension.dart';
+import 'package:chat_app__qurinom_solutions__assignment/core/utils/extensions/build_context.extension.dart';
 import 'package:flutter/material.dart';
 
 class AppTextField extends StatelessWidget {
