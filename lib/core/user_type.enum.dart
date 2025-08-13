@@ -1,0 +1,4 @@
+enum UserType {
+  vendor,
+  customer,
+}
