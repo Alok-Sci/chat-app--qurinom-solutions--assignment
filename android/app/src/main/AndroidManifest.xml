@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:label="chat_app__qurinom_solutions__assignment"
+        android:label="ChatApp"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

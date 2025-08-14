@@ -1,4 +1,4 @@
-package com.example.chat_app__qurinom_solutions__assignment
+package com.chat_app.alok.qurinom_solutions
 
 import io.flutter.embedding.android.FlutterActivity
 
